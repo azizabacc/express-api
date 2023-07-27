@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "timeToPrepare": "30 minutes",
+      "ingredients": [
+        "spaghetti",
+        "minced beef",
+        "tomato sauce",
+        "onion",
+        "garlic",
+        "olive oil",
+        "salt",
+        "pepper"
+      ],
+      "steps": [
+        "Boil water and cook spaghetti according to package instructions.",
+        "In a pan, heat olive oil and sauté chopped onions and garlic.",
+        "Add minced beef and cook until browned.",
+        "Pour tomato sauce, salt, and pepper into the pan and simmer for 15 minutes.",
+        "Serve the Bolognese sauce over the cooked spaghetti."
+      ]
+    },
+    {
+      "name": "Chicken Stir-Fry",
+      "timeToPrepare": "25 minutes",
+      "ingredients": [
+        "chicken breast",
+        "soy sauce",
+        "sesame oil",
+        "vegetables (carrots, broccoli, bell peppers)",
+        "garlic",
+        "ginger",
+        "cornstarch",
+        "vegetable oil",
+        "rice"
+      ],
+      "steps": [
+        "Cut chicken into bite-sized pieces and marinate with soy sauce and sesame oil.",
+        "In a wok or large pan, heat vegetable oil and add minced garlic and grated ginger.",
+        "Add the marinated chicken and stir-fry until cooked.",
+        "Toss in chopped vegetables and cook for a few minutes.",
+        "In a small bowl, mix cornstarch with water to make a slurry and pour it into the wok to thicken the sauce.",
+        "Serve the chicken stir-fry over steamed rice."
+      ]
+    },
+    {
+      "name": "Caprese Salad",
+      "timeToPrepare": "15 minutes",
+      "ingredients": [
+        "tomatoes",
+        "fresh mozzarella cheese",
+        "fresh basil leaves",
+        "balsamic vinegar",
+        "extra-virgin olive oil",
+        "salt",
+        "pepper"
+      ],
+      "steps": [
+        "Slice tomatoes and fresh mozzarella cheese into thick rounds.",
+        "Arrange alternating slices of tomatoes and mozzarella on a plate.",
+        "Tuck fresh basil leaves between the slices.",
+        "Drizzle balsamic vinegar and extra-virgin olive oil over the salad.",
+        "Sprinkle with salt and pepper to taste.",
+        "Serve the Caprese salad immediately."
+      ]
+    },
+    {
+      "name": "Chocolate Brownies",
+      "timeToPrepare": "40 minutes",
+      "ingredients": [
+        "unsalted butter",
+        "granulated sugar",
+        "eggs",
+        "vanilla extract",
+        "all-purpose flour",
+        "cocoa powder",
+        "salt",
+        "chocolate chips",
+        "chopped nuts (optional)"
+      ],
+      "steps": [
+        "Preheat the oven and grease a baking pan.",
+        "In a microwave or double boiler, melt the butter and stir in sugar.",
+        "Beat in eggs and vanilla extract until well combined.",
+        "Sift in flour, cocoa powder, and salt; mix until smooth.",
+        "Fold in chocolate chips and chopped nuts (if using).",
+        "Pour the batter into the greased baking pan.",
+        "Bake in the preheated oven until a toothpick inserted comes out with moist crumbs.",
+        "Let the brownies cool before cutting into squares."
+      ]
+    }
+  ]
+  
