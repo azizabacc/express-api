@@ -1,8 +1,9 @@
 import express from 'express'
 import fs from 'fs';
+import authenticateToken from '../../middleware/authentification.mjs';
 const dishRouter = express.Router();
 //whole list of dishes
-dishRouter.get('/', (req, res) => {
+dishRouter.get('/',authenticateToken, (req, res) => {
     // Read dishes data from the dishes.json file
     fs.readFile('data/dishes.json', 'utf8', (err, data) => {
       if (err) {
